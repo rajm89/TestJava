@@ -20,6 +20,8 @@ public class Dev1Code {
 			System.out.println("This is third test line");
 			System.out.println("This is forth test line");
 			
+			System.out.println("This is sixth test line");
+			
 	}
 
 }
